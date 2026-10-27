@@ -1,4 +1,20 @@
-# Hi, I'm Zayyan 👋
+# Zayyan Shaikh · Web Developer, Karachi 🇵🇰
+
+> **Karachi ke local businesses ke paas Google Maps pe listing hai, website nahi. Main wahi gap bharta hoon.**
+> Cafes, katakat shops, bakeries: menu site + WhatsApp ordering, taake order seedha phone pe aaye.
+
+```ts
+const zayyan = {
+  role: "Web Developer (Next.js, TypeScript)",
+  building: "Websites + order systems for local brands",
+  learning: ["AI Agents", "Stronger JS/TS"],
+  openToWork: true,
+};
+```
+
+### 🔨 Now Building
+- Naye local-business websites (ordering + menu)
+- AI agents seekhna (Python)
 
 **Web Developer (Next.js, TypeScript)** based in Karachi, Pakistan.
 I build fast, AI-assisted business websites and order/booking systems for local brands, and I'm currently learning to build AI agents.
